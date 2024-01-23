@@ -27,6 +27,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/livebook-dev/codemirror-lang-elixir.git"
+    "url": "git+https://github.com/livebook-dev/codemirror-lang-elixir.git"
   }
 }
