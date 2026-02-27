@@ -2,6 +2,7 @@
   "name": "codemirror-lang-elixir",
   "version": "4.0.0",
   "description": "Elixir language support for the CodeMirror code editor",
+  "license": "Apache-2.0",
   "scripts": {
     "test": "cm-runtests",
     "prepare": "cm-buildhelper src/index.ts"
