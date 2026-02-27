@@ -1,6 +1,6 @@
 {
   "name": "codemirror-lang-elixir",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Elixir language support for the CodeMirror code editor",
   "license": "Apache-2.0",
   "scripts": {
